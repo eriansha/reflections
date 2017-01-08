@@ -1,10 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	it will create a hidden directory namely .git. It use to save metadata
+	it will create a hidden directory namely .git/. It use to save metadata
 	about your history of the repository. So, you can look back to the previous commit
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	staging just provide field that you can use to put some of file to be a commit. It really usefull since you haven't to create a commit for each file. Working directory is a place in you PC to save all your file (include repository). Repository is directory for save your history or early commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
