@@ -11,8 +11,13 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	just type git add [name your file that want to put in stagging area].
+	now it'll automatically control that file to check if there is changed
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	when you want to create multiple experiment for version but still want to save master commit. So, you can easly move to core version 
 
 How do the diagrams help you visualize the branch structure?
 
