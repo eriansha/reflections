@@ -30,3 +30,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	
+	Pro: Mergin secara otomatis tanpa harus berusaha keras untuk mencari tau apa yang harus ditambah. Selain itu, secara manual pun akan lebih sulit karena harus mengecek yang mana saja yang harus di sesuaikan utk digabung
+	Cons: Apabila terjadi konflik, hal ini cukup merepotkan. Kita juga harus berdiskusi dengan partner kita mana yang harus menjadi final nya. Hal ini cukup merepotkan tapi lebih baik ketimbang merge secara manual
