@@ -21,8 +21,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	diagram really help us to visualize the branch because it can tracing to the parent between branch. it really helpful when we want to create new feature in previous commit that not include recently commit (or master branch)
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	it'll combined into a new branch. if you merge with master branch, the new branch will be master branch. Diagram is really usefull tool for represent data structure. So, it can make easy for human read  
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
